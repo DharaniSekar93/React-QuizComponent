@@ -5,4 +5,16 @@ class Quiz extends Component {
     return (
       <main>
         <section>
-          <p> // instruction
+          <p>// instruction text goes here</p>
+        </section>
+        <section className="buttons">
+          <ul>
+            //quiz instruction goes here
+           </ul>
+         </section>
+      </main>
+      )
+  }
+}
+
+export default QuizQuestion
